@@ -49,4 +49,4 @@ financial control.
 
 ## ⏭️ Next Steps
 
-Implement income screens and analysis screens to analyze your balance between income and expenses.
+ * Section about investment
